@@ -8,7 +8,7 @@
 
 [![Project Software](https://skills.thijs.gg/icons?i=linux,flask,py,react,js,html,css,)](https://community.plotly.com/t/django-dash-token-authentication/82088)
 
-![Dash full Callendar](assets/branding/git_banner.png)
+![Dash full Callendar](assets/branding/github_fullcalendar_banner.gif)
 
 `Dash-Full-Calendar` is a comprehensive resource aimed at enhancing the development of frontend design of a calendar based component in the Dash framework. 
 
